@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "title": "Producto 1",
+      "description": "Descripción del producto 1",
+      "code": "P1",
+      "price": 10.99,
+      "status": true,
+      "stock": 50,
+      "category": "Categoría 1",
+      "thumbnails": [
+        "ruta/imagen1.jpg",
+        "ruta/imagen2.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Producto 2",
+      "description": "Descripción del producto 2",
+      "code": "P2",
+      "price": 19.99,
+      "status": true,
+      "stock": 30,
+      "category": "Categoría 2",
+      "thumbnails": [
+        "ruta/imagen3.jpg",
+        "ruta/imagen4.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Producto 3",
+      "description": "Descripción del producto 3",
+      "code": "P3",
+      "price": 7.99,
+      "status": true,
+      "stock": 20,
+      "category": "Categoría 1",
+      "thumbnails": [
+        "ruta/imagen5.jpg",
+        "ruta/imagen6.jpg"
+      ]
+    }
+  ]
+  
